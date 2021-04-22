@@ -2966,7 +2966,7 @@ U 1 1 607FFA37
 P 5900 7000
 F 0 "CHASSIS1" H 6050 7150 50  0000 L CNN
 F 1 "Chassis" H 6050 7050 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Plated_Hole_D2.0mm" H 5900 7000 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 5900 7000 50  0001 C CNN
 F 3 "~" H 5900 7000 50  0001 C CNN
 	1    5900 7000
 	1    0    0    -1  
